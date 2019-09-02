@@ -25,3 +25,33 @@ Tipos de modelo en informacion hospitalaria
 
 **PATRON: MEDIATOR
 
+-----------------------------------------
+
+Toma de requerimientos **
+
+
+-------------------------------------------
+
+Casos de Uso
+
+Es la representacion de un requerimiento, no tiene que ser simple**, debe tener un flujo dentro de el
+
+el nombre requiere un VERBO en infinitivo (no analizar (Muy Ambiguo), en este caso seria Generar Reporte), una accion!
+Tipos de escenarios en casos de uso: - normal:Selecciona un producto y paga (Simple y exitoso)
+                                     - alternativo: ***, que pasa si* (relevante)
+  
+  Actores: personas o sistemas que interactuan con mi sistema (cajeros, personas, transbank, redes sociales)
+          -Son roles, no nombres y en singular (Ejemplo:Administrador (No administradores o juan perez)
+          
+          (UML y patrones, Larman. Buscar casos de uso)
+          
+Usar voz activa, no pasiva (que sea mas directo)  
+
+
+Include obligatorio, extend opcional
+
+Include CU-> CU
+extend CU<- CU
+
+**Un caso de uso debe ser observable por el usuario!
+        
