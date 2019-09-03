@@ -54,4 +54,13 @@ Include CU-> CU
 extend CU<- CU
 
 **Un caso de uso debe ser observable por el usuario!
+
+---------------------------------------------------------------------------------
+
+UML
+
+Accion y actividad (Una contenida dentro de otra)
+Rombo de desicion solamente admite 3 opciones, si se necesita mas se pondrá otro rombo(Se conectan ambos rombos).
+Objeto se utiliza cuando es un objeto virtual o tangible 
+
         
