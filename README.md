@@ -63,4 +63,31 @@ Accion y actividad (Una contenida dentro de otra)
 Rombo de desicion solamente admite 3 opciones, si se necesita mas se pondrá otro rombo(Se conectan ambos rombos).
 Objeto se utiliza cuando es un objeto virtual o tangible 
 
+
+
+----------------------------------------------------------------------
+
+Historia de Usuario
+
+Se extraen generalmente de reuniones (Comunicacion verbal).
+
+Plantillas utiles:  -ID: identificador unico
+                    -Titulo: 
+                    -*Descripcion: descripcion sintetizada de la historia de usuario. (como [ROL], quiero [objetivo], para poder [beneficio])
+                    -*Criterio de aceptación: permite que el codigo creado supere una prueba para finalizar la implementación. (Specific, measuarable, achievable, 2 mas)                    
+                    -Estimación: estimacion de lo que se puede demorar en implementar.
+                    -Prioridad: permite determinar el orden de las historias de usuario
+                    -Valor: valor que le asigna el stakeholder 
+
         
+caracteristicas de una historia de usuario
+  -Independiente de otras historias de usuario
+  -negociable con el cliente
+  -Valiosa para los stakeholder a nivel de negocio
+  -Estimable
+  -Pequeña
+  -Comprobable (testeable)
+  
+  **Modulo Web Perfect match, el de sponsor**
+  
+  Historias de usuario no son casos de uso (casos de uso tiene un alcance mucho mayor), los casos de uso continuan existiendo mientras se desarolla
